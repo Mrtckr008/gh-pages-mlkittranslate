@@ -1,5 +1,5 @@
 ---
-title: "Step 1: Designing the UI"
+title: "Step 1: Design the UI"
 description: 5
 ---
 
