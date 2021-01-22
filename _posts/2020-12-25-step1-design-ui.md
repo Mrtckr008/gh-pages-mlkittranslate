@@ -1,9 +1,9 @@
 ---
-title: "Step 2: Add activity_translate.xml"
+title: "Step 1: Designing the UI"
 description: 5
 ---
 
-##### Designing the UI
+**Designing the UI**
 
 1. We will write a sentence in any supported language according to the scenario. We will be able to choose which language this sentence will be translated into. We will do this using Spinner. There will also be a translate button. With this button, we will run the translation process and show it to the user. In this codelab, you can create the UI in your Android Studio project, by referring to the following UI layout.
 
@@ -87,4 +87,6 @@ description: 5
            app:layout_constraintTop_toBottomOf="@+id/translation_text" />
        </androidx.constraintlayout.widget.ConstraintLayout>
 
-![ss_ui_design](C:\Users\m00565027\Desktop\gh-pages-locationkitcodelab-main\assets\ss_ui_design.png)
+<div style="padding: 5px">
+        <img style="width: 250.00px ; padding: 5px" src="https://raw.githubusercontent.com/Mrtckr008/gh-pages-mlkittranslate/master/assets/ss_ui_design.png">
+</div>

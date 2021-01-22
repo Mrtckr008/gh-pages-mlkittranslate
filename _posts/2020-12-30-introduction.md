@@ -27,7 +27,7 @@ description: 2
 In this codelab, you will use the demo project that has been created for you to experience with Huawei Mobile Services Machine Learning Kit’s Langugage Detection and Text Translate features. 
 
 <div style="padding: 5px">
-        <img style="width: 250.00px ; padding: 5px" src="https://raw.githubusercontent.com/hayricaral/gh-pages-locationkitcodelab/main/assets/Locatio234nKit1.jpg">
+        <img style="width: 250.00px ; padding: 5px" src="https://raw.githubusercontent.com/Mrtckr008/gh-pages-mlkittranslate/master/assets/app_screenshot.png">
 </div>
 
 
