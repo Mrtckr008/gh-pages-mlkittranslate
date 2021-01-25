@@ -13,7 +13,7 @@ description: 10
 
    - Add following lines in onCreate() method to bind spinner with the adapter.
 
-     <pre><div id="copy-button22" class="copy-btn" title="Copy" onclick="copyCode(this.id)"></div><code><code>languageSpinner.onItemSelectedListener = this
+     <pre><div id="copy-button22" class="copy-btn" title="Copy" onclick="copyCode(this.id)"></div><code>languageSpinner.onItemSelectedListener = this
      val spinnerAdapter: ArrayAdapter<*> = ArrayAdapter<Any?>(this, android.R.layout.simple_spinner_item, languageArray)
      spinnerAdapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item)
      languageSpinner?.adapter = spinnerAdapter
