@@ -3,10 +3,10 @@ title: "Introduction"
 description: 2
 ---
 
-<huawei-codelab-about codelab-title="HMS Machine Learning Kit - Language Detection and Text Translate Codelab" last-updated="2021-01-21T13:20:13-07:00" authors="Huawei Codelab Team">
+<huawei-codelab-about codelab-title="HMS Machine Learning Kit - Text Translate and Language Detection Codelab" last-updated="2021-01-21T13:20:13-07:00" authors="Huawei Codelab Team">
 
 <div class="HMS Machine Learning Kit - Language Detection and Translate">
-<div class="token">HMS Machine Learning Kit - Language Detection and Text Translate Codelab</div></div>
+<div class="token">HMS Machine Learning Kit - Text Translate and Language Detection Codelab</div></div>
 <div class="about-card">
 <h2 class="title">About this codelab</h2>
 <div class="last-updated"><i class="material-icons">subject</i>Last updated Jan 21, 2021</div>
@@ -24,7 +24,7 @@ description: 2
 
 ## **What you will do**
 
-In this codelab, you will use the demo project that has been created for you to experience with Huawei Mobile Services Machine Learning Kit’s Langugage Detection and Text Translate features. 
+In this codelab, you will use the demo project that has been created for you to experience with Huawei Mobile Services Machine Learning Kit’s Language Detection and Text Translate features. 
 
 <div style="padding: 5px">
         <img style="width: 250.00px ; padding: 5px" src="https://raw.githubusercontent.com/Mrtckr008/gh-pages-mlkittranslate/master/assets/app_screenshot.png">
@@ -36,7 +36,7 @@ In this codelab, you will use the demo project that has been created for you to 
 **What you will learn** 
 -----------------------
 
-In this codelab, you will learn how to:
+In this codelab, you will learn:
 
 <ul class="checklist">
 	<li>How to create an app on HUAWEI Developer</li>

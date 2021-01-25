@@ -46,7 +46,7 @@ description: 10
      }
      }
   
-   
+  
 2. Call Detect Language Method
 
    * Create a language detector

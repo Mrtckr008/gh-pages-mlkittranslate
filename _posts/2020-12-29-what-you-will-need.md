@@ -2,7 +2,12 @@
 title: "What you will need"
 description: 1
 ---
-**Hardware Requirements**
+<div class="HMS Machine Learning Kit - Language Detection and Translate">
+<div class="token">HMS Machine Learning Kit - Text Translate and Language Detection Codelab</div></div>
+<div class="about-card">
+<h2 class="title">About this codelab</h2>
+<div class="last-updated"><i class="material-icons">subject</i>Last updated Jan 21, 2021</div>
+<div class="authors"><i class="material-icons">account_circle</i>Written by Huawei Codelab Team</div></div>
 -------------------------
 
 -   A computer (desktop or laptop)
