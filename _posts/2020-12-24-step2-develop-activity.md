@@ -21,10 +21,9 @@ description: 10
      
 - Added spinner onItemSelected function. The targetLangCode variable changes to the selected language code.
   
-  <pre><div id="copy-button22" class="copy-btn" title="Copy" onclick="copyCode(this.id)"></div><code>Note: ISO 639-1 standard is used as language standards.
-  
-  
-  
+  <aside class="special">
+  	<p><strong>Note:</strong>Note: ISO 639-1 standard is used as language standards.</p>
+  </aside>
   
   <pre><div id="copy-button22" class="copy-btn" title="Copy" onclick="copyCode(this.id)"></div><code>override fun onItemSelected(p0: AdapterView<*>?, p1: View?, p2: Int, p3: Long) {
          translationLanguageText.text=languageArray[p2]
