@@ -18,9 +18,8 @@ description: 2
 
 1. Translation service: The translation service can translate text into different languages. Currently, this service supports offline translation of text in Simplified Chinese, English, German, Spanish, French, and Russian (automatic model download is supported), and online translation of text in Simplified Chinese, English, French, Arabic, Thai, Spanish, Turkish, Portuguese, Japanese, German, Italian, Russian, Polish, Malay, Swedish, Finnish, Norwegian, Danish, and Korean.
 
-2. Language detection service
+2. Language detection service: The language detection service can detect the language of text. Both single-language text and multi-language text are supported. ML Kit detects languages in text and returns the language codes (ISO 639-1 standard codes) and their respective confidences or the language code with the highest confidence. Currently, 51 languages can be detected on the cloud and 50 languages can be detected on the device.
 
-   The language detection service can detect the language of text. Both single-language text and multi-language text are supported. ML Kit detects languages in text and returns the language codes (ISO 639-1 standard codes) and their respective confidences or the language code with the highest confidence. Currently, 51 languages can be detected on the cloud and 50 languages can be detected on the device.
 
 ## **What you will do**
 

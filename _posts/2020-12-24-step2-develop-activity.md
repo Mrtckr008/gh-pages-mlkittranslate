@@ -23,6 +23,9 @@ description: 10
   
   <pre><div id="copy-button22" class="copy-btn" title="Copy" onclick="copyCode(this.id)"></div><code>Note: ISO 639-1 standard is used as language standards.
   
+  
+  
+  
   <pre><div id="copy-button22" class="copy-btn" title="Copy" onclick="copyCode(this.id)"></div><code>override fun onItemSelected(p0: AdapterView<*>?, p1: View?, p2: Int, p3: Long) {
          translationLanguageText.text=languageArray[p2]
          when {

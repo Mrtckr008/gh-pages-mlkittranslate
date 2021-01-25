@@ -57,15 +57,16 @@ does not meet your requirements, change it in your own project.</p>
 
   <pre><div id="copy-button4" class="copy-btn" title="Copy" onclick="copyCode(this.id)"></div><code><span class="pln">dependencies </span><span class="pun">{</span><span class="pln">
   		</span><span class="pun">...</span><span class="pln">
-      </span><span class="str">	//Text Translate</span><span class="pln">
+      </span><span class="str">		//Text Translate</span><span class="pln">
   		implementation </span><span class="str">'com.huawei.hms:ml-computer-translate:2.0.5.300'</span><span class="pln">
   		<span class="str">//Language Detection</span><span class="pln">
   		implementation </span><span class="str">'com.huawei.hms:ml-computer-language-detection:2.0.5.300'</span><span class="pln">
   		</span><span class="pun">...</span><span class="pln">
   	</span><span class="pun">}</span><span class="pln">
 
+ 
 
-  Please, refer to [latest version](https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/version-change-history-0000001050986155) for Location Kit.
+ Please, refer to [latest version](https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/version-changehistory-0000001050040023) for Machine Learning Kit.
 
 - Add the following information under **apply plugin: 'com.android.application'** in the file header:
 
