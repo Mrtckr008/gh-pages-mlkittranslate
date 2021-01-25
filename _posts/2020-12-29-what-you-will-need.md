@@ -6,7 +6,7 @@ description: 1
 <div class="token">HMS Machine Learning Kit - Text Translate and Language Detection Codelab</div></div>
 <div class="about-card">
 <h2 class="title">About this codelab</h2>
-<div class="last-updated"><i class="material-icons">subject</i>Last updated Jan 21, 2021</div>
+<div class="last-updated"><i class="material-icons">subject</i>Last updated Jan 25, 2021</div>
 <div class="authors"><i class="material-icons">account_circle</i>Written by Huawei Codelab Team</div></div>
 -------------------------
 

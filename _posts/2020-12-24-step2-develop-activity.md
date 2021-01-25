@@ -13,17 +13,20 @@ description: 10
 
    - Add following lines in onCreate() method to bind spinner with the adapter.
 
-     <pre><div id="copy-button22" class="copy-btn" title="Copy" onclick="copyCode(this.id)"></div><code><pre><div id="copy-button22" class="copy-btn" title="Copy" onclick="copyCode(this.id)"></div><code>languageSpinner.onItemSelectedListener = this
+     <pre><div id="copy-button22" class="copy-btn" title="Copy" onclick="copyCode(this.id)"></div><code><code>languageSpinner.onItemSelectedListener = this
      val spinnerAdapter: ArrayAdapter<*> = ArrayAdapter<Any?>(this, android.R.layout.simple_spinner_item, languageArray)
      spinnerAdapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item)
      languageSpinner?.adapter = spinnerAdapter
 
+     
      
 - Added spinner onItemSelected function. The targetLangCode variable changes to the selected language code.
   
   <aside class="special">
   	<p><strong>Note:</strong>Note: ISO 639-1 standard is used as language standards.</p>
   </aside>
+  
+  
   
   <pre><div id="copy-button22" class="copy-btn" title="Copy" onclick="copyCode(this.id)"></div><code>override fun onItemSelected(p0: AdapterView<*>?, p1: View?, p2: Int, p3: Long) {
          translationLanguageText.text=languageArray[p2]
